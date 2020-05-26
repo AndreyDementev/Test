@@ -1,0 +1,3 @@
+[submodule "Supervisor"]
+	path = Supervisor
+	url = https://github.com/AndreyDementev/Supervisor
